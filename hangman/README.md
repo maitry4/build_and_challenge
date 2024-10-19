@@ -1,6 +1,14 @@
 <h1>🕹️ Hangman Game (GUI) - Python & CustomTkinter</h1>
     <p>Welcome to the <strong>Hangman Game</strong> project! This project is part of the <em>Build & Challenge Series</em> where you'll not only build an interactive word-guessing game but also face exciting challenges to enhance your skills. Whether you're a beginner or looking to sharpen your GUI programming skills, this project is perfect for you!</p>
 
+<h2>📸 Sample Output</h2>
+  <!-- To place an output image, use the following format -->
+  <p>Here's a screenshot of the Hangman game in action:</p>
+  <img src="https://github.com/maitry4/build_and_challenge/blob/main/hangman/hangman_output.png" alt="Hangman Game Output" width="500px">
+
+<h2>📘 Tutorial Link</h2>
+    <p>If you'd like a detailed step-by-step tutorial on how to build this Hangman game, <a href="https://python-hub.com/hangman-game-in-python-using-customtkinter/" target="_blank">click here</a> to read the article!</p>
+
   <h2>🎯 Project Overview</h2>
   <p>This project walks you through creating a fully functional Hangman game with a graphical user interface (GUI) built using Python's <code>customtkinter</code> library. You'll implement:</p>
   <ul>
@@ -80,14 +88,5 @@ cd build_and_challenge/hangman</code></pre>
 
   <h2>🔗 License</h2>
   <p>This project is licensed under the MIT License. Feel free to use it and build upon it!</p>
-
-  <h2>📸 Sample Output</h2>
-  <!-- To place an output image, use the following format -->
-  <p>Here's a screenshot of the Hangman game in action:</p>
-  <img src="https://github.com/maitry4/build_and_challenge/blob/main/hangman/hangman_output.png" alt="Hangman Game Output" width="500px">
-
-  <h2>To Understand the Project</h2>
-  <h2>📘 Tutorial Link</h2>
-    <p>If you'd like a detailed step-by-step tutorial on how to build this Hangman game, <a href="https://python-hub.com/hangman-game-in-python-using-customtkinter/" target="_blank">click here</a> to read the article!</p>
 
     
