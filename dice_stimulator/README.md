@@ -4,7 +4,7 @@
 <h2>📸 Sample Output</h2>
 <p>Here’s what the Dice Simulator looks like in action:</p>
 
-<img src="https://github.com/your-username/build_and_challenge/blob/main/dice_simulator/dice_output.png" alt="Dice Simulator Output" width="500px">
+<img src="https://github.com/maitry4/build_and_challenge/blob/main/dice_stimulator/dice-output.png" alt="Dice Simulator Output" width="500px">
 
 <h2>📘 Tutorial Link</h2>
 <p>If you'd like a detailed step-by-step guide on how to build this dice simulator, <a href="https://python-hub.com/dice-simulator-in-python/" target="_blank">click here</a> to read the full article!</p>
